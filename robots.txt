@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://atulit253.github.io/snippets-pu5sav/sitemap.xml
